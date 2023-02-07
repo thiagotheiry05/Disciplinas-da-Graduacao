@@ -1,2 +1,2 @@
-# Disciplina de Inteligencia Artificial Embarcada
-Repositório onde irá conter todos os arquivos e trabalhos do semestre 
+# Disciplinas do Curso de Engenharia da Computação
+Repositório onde irá conter todos os projetos/trabalhos/listas/provas
